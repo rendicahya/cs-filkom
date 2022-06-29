@@ -1,0 +1,61 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_B1D7DCC1_ADC9_6F9F_41E1_475C9174F0FB.ok = OK
+
+### Report Screen
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.title = - SCORE -
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.completion = Completed
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.questionsCorrect = Correct
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.downloadCSV = Download .csv
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.questionsIncorrect = Incorrect
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.items = Items Found
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.questions = Questions
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.repeat = Repeat
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.submitToLMS = Submit
+quizScore_B1C9FCC1_ADC9_6F9F_41E3_BF793CD5FD53.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_B1D6CCC1_ADC9_6F9F_41DB_9D02150F6B17.title = - TIMEOUT -
+quizTimeout_B1D6CCC1_ADC9_6F9F_41DB_9D02150F6B17.repeat = Repeat
+quizTimeout_B1D6CCC1_ADC9_6F9F_41DB_9D02150F6B17.score = View Score
+
+## Media
+
+### Audio
+audiores_B2350C65_AB98_72E8_419E_EEB7882BB3CD.mp3Url = media/audio_B2A30214_AB98_7628_41DC_28DAA095515D_en.mp3
+audiores_B225430C_ABA8_D638_41C8_CAD7D13CC523.mp3Url = media/audio_B34783DA_ABA8_F5D8_41B6_0EE8E24DBD43_en.mp3
+audiores_B4E6F9A4_A999_D268_41C1_536F5B10D2C0.mp3Url = media/audio_B4948AC0_A998_3628_41CF_34792789A154_en.mp3
+audiores_B6E5341E_ABB8_5258_41D4_5F616DE90076.mp3Url = media/audio_B76ADF81_ABB9_CE29_41E2_895AD480F6DF_en.mp3
+
+### Title
+panorama_B16DE790_A898_7E28_41DE_299ED66BC7AB.label = GS__0379
+panorama_B1678E76_A898_4EE8_41D7_064327B2C04E.label = GS__0380
+panorama_B167F50E_A898_5238_41E0_4B85778FE6BD.label = GS__0381
+panorama_B167ABC5_A898_5628_41C7_DB237ACF5412.label = GS__0382
+panorama_B167D28B_A898_3638_41DB_93F5A2BCA4EA.label = GS__0383
+panorama_B167E971_A898_32E8_41DF_F59D29B8FECA.label = GS__0384
+
+## Skin
+
+### Image
+Image_B5A73B93_ABA9_D628_41BB_108D55710433.url = skin/Image_B5A73B93_ABA9_D628_41BB_108D55710433_en.png
+Image_B7D65BFE_AB98_35DB_41E1_41EEAAA9D8FC.url = skin/Image_B7D65BFE_AB98_35DB_41E1_41EEAAA9D8FC_en.png
+
+### Label
+Label_B61B62A7_ADDB_3BE3_41E1_B116D565E72E.text = GET A WEAPON!
+
+### Multiline Text
+HTMLText_B7210DFB_ADD9_296C_41C1_AF389A5DF1F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Bahnschrift';">TERRORISTS KILLED: {{quiz.items.found}}</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Bahnschrift';">TIME: {{quiz.time.remaining}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CS FILKOM v3
